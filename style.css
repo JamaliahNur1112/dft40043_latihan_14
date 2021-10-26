@@ -1,13 +1,13 @@
 body {
     background-color: bisque;
-    background-image: url('awan2.jpg');
+    background-image: url('images/awan2.jpg');
     background-attachment: fixed;
 }
 div{
     background-color:palevioletred;
     width: 1000px;
     height: 1500px;
-    background-image: url('bunga.jpg');
+    background-image: url('images/bunga.jpg');
     background-repeat:no-repeat;
    /* background-position: right top;*/
     background-position-x: 50px;
